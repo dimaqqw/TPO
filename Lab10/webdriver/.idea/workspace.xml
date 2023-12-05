@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b65a118a-35ec-4dec-8647-16bfcbe2f691" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/page/AVPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/AVTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Lab8/aircompany" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab8/aircompany" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Avby.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Avby.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/Avby.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/Avby.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab9/webdriver/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab9/webdriver/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab9/webdriver/src/test/java/org/example/Avby.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab9/webdriver/src/test/java/org/example/Avby.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab9/webdriver/target/test-classes/org/example/Avby.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab9/webdriver/target/test-classes/org/example/Avby.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +45,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/3 kurs/sem1/TPvI/Lab14/WEB_RESOURCE",
+    "last_opened_file_path": "D:/3 kurs/sem1/TPO/Lab10/webdriver",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -65,6 +67,9 @@
       <workItem from="1701161148547" duration="1309000" />
       <workItem from="1701279351111" duration="2000" />
       <workItem from="1701279382973" duration="15000" />
+      <workItem from="1701525114801" duration="2161000" />
+      <workItem from="1701552114057" duration="13000" />
+      <workItem from="1701732332947" duration="5261000" />
     </task>
     <servers />
   </component>

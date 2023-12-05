@@ -34,8 +34,8 @@ public class Avby {
         driver.findElement(By.xpath("//*[@id=\"__next\"]/div[3]/div[2]/div[1]/div[1]/div/div[2]/div[2]/div/div[1]/form/fieldset/div[4]/button")).click();
 
         new WebDriverWait(driver, Duration.ofSeconds(15))
-                .until(ExpectedConditions.presenceOfElementLocated(By.xpath("//*[@id=\"__next\"]/div[4]/div[2]/div[1]/main/div/div/div/div[2]/div[1]/div[2]/div/ul[3]/li[1]/a")));
-        driver.findElement(By.xpath("//*[@id=\"__next\"]/div[4]/div[2]/div[1]/main/div/div/div/div[2]/div[1]/div[2]/div/ul[3]/li[1]/a")).click();
+                .until(ExpectedConditions.presenceOfElementLocated(By.xpath("/html/body/div[1]/div[4]/div[2]/div[1]/main/div/div/div/div[2]/div[1]/div[2]/div/ul[3]/li[1]/a")));
+        driver.findElement(By.xpath("/html/body/div[1]/div[4]/div[2]/div[1]/main/div/div/div/div[2]/div[1]/div[2]/div/ul[3]/li[1]/a")).click();
 
         new WebDriverWait(driver, Duration.ofSeconds(15))
                 .until(ExpectedConditions.presenceOfElementLocated(By.xpath("//button[@title='актуальные']")));
