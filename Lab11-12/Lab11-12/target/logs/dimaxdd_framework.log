@@ -1,0 +1,754 @@
+2023-12-05 07:07:41,568 INFO page.AuthPage [main] Main page is opened
+2023-12-05 07:07:41,679 INFO page.AuthPage [main] Auth page is opened
+2023-12-05 07:07:41,838 INFO page.AuthPage [main] Cookies canceled
+2023-12-05 07:07:43,033 INFO page.AuthPage [main] Phone is filled
+2023-12-05 07:07:43,156 INFO page.AuthPage [main] Password is filled
+2023-12-05 07:07:44,268 INFO util.TestListener [main] Test failed: testAuth
+2023-12-05 07:09:55,210 INFO page.AuthPage [main] Main page is opened
+2023-12-05 07:09:55,328 INFO page.AuthPage [main] Auth page is opened
+2023-12-05 07:09:56,584 INFO util.TestListener [main] Test failed: testAuth
+2023-12-05 07:10:36,924 INFO page.AuthPage [main] Main page is opened
+2023-12-05 07:10:37,041 INFO page.AuthPage [main] Auth page is opened
+2023-12-05 07:10:38,242 INFO util.TestListener [main] Test failed: testAuth
+2023-12-05 07:11:51,278 INFO page.AuthPage [main] Main page is opened
+2023-12-05 07:11:51,378 INFO page.AuthPage [main] Auth page is opened
+2023-12-05 07:11:51,548 INFO page.AuthPage [main] Cookies canceled
+2023-12-05 07:11:52,212 INFO page.AuthPage [main] Phone is filled
+2023-12-05 07:11:52,350 INFO page.AuthPage [main] Password is filled
+2023-12-05 07:11:52,470 INFO page.AuthPage [main] Login button is clicked
+2023-12-05 07:11:55,607 INFO page.AuthPage [main] User is successfully logged in
+2023-12-05 07:11:55,615 INFO page.AuthPage [main] Redirected to the main page. User is authenticated.
+2023-12-05 07:13:29,209 INFO page.AuthPage [main] Main page is opened
+2023-12-05 07:13:29,318 INFO page.AuthPage [main] Auth page is opened
+2023-12-05 07:13:30,526 INFO util.TestListener [main] Test failed: testAuth
+2023-12-05 07:15:57,256 INFO page.AuthPage [main] Main page is opened
+2023-12-05 07:15:57,365 INFO page.AuthPage [main] Auth page is opened
+2023-12-05 07:15:59,544 INFO util.TestListener [main] Test failed: testAuth
+2023-12-05 07:16:29,005 INFO page.AuthPage [main] Main page is opened
+2023-12-05 07:16:29,122 INFO page.AuthPage [main] Auth page is opened
+2023-12-05 07:16:31,860 INFO util.TestListener [main] Test failed: testAuth
+2023-12-05 07:18:55,865 INFO page.AuthPage [main] Main page is opened
+2023-12-05 07:18:55,998 INFO page.AuthPage [main] Auth page is opened
+2023-12-05 07:18:58,621 INFO util.TestListener [main] Test failed: testAuth
+2023-12-05 07:19:33,918 INFO page.AuthPage [main] Main page is opened
+2023-12-05 07:19:34,029 INFO page.AuthPage [main] Auth page is opened
+2023-12-05 07:19:35,261 INFO util.TestListener [main] Test failed: testAuth
+2023-12-05 07:20:04,774 INFO page.AuthPage [main] Main page is opened
+2023-12-05 07:20:04,908 INFO page.AuthPage [main] Auth page is opened
+2023-12-05 07:20:06,166 INFO util.TestListener [main] Test failed: testAuth
+2023-12-05 07:20:53,574 INFO page.AuthPage [main] Main page is opened
+2023-12-05 07:20:53,701 INFO page.AuthPage [main] Auth page is opened
+2023-12-05 07:22:09,723 INFO page.AuthPage [main] Main page is opened
+2023-12-05 07:22:09,827 INFO page.AuthPage [main] Auth page is opened
+2023-12-05 07:22:09,828 INFO page.AuthPage [main] Cookies canceled
+2023-12-05 07:22:10,521 INFO page.AuthPage [main] Phone is filled
+2023-12-05 07:22:10,660 INFO page.AuthPage [main] Password is filled
+2023-12-05 07:22:10,790 INFO page.AuthPage [main] Login button is clicked
+2023-12-05 07:22:13,959 INFO page.AuthPage [main] User is successfully logged in
+2023-12-05 07:22:13,966 INFO page.AuthPage [main] Redirected to the main page. User is authenticated.
+2023-12-05 07:22:50,088 INFO page.AuthPage [main] Main page is opened
+2023-12-05 07:22:50,185 INFO page.AuthPage [main] Auth page is opened
+2023-12-05 07:22:51,428 INFO util.TestListener [main] Test failed: testAuth
+2023-12-05 07:24:16,517 INFO page.AuthPage [main] Main page is opened
+2023-12-05 07:24:16,637 INFO page.AuthPage [main] Auth page is opened
+2023-12-05 07:24:17,867 INFO util.TestListener [main] Test failed: testAuth
+2023-12-05 07:25:53,278 INFO page.AuthPage [main] Main page is opened
+2023-12-05 07:25:53,446 INFO page.AuthPage [main] Auth page is opened
+2023-12-05 07:27:14,527 INFO page.AuthPage [main] Main page is opened
+2023-12-05 07:27:14,689 INFO page.AuthPage [main] Auth page is opened
+2023-12-05 07:27:15,474 INFO page.AuthPage [main] Phone is filled
+2023-12-05 07:27:15,665 INFO page.AuthPage [main] Password is filled
+2023-12-05 07:27:15,831 INFO page.AuthPage [main] Login button is clicked
+2023-12-05 07:27:19,074 INFO page.AuthPage [main] User is successfully logged in
+2023-12-05 07:27:19,084 INFO page.AuthPage [main] Redirected to the main page. User is authenticated.
+2023-12-05 07:27:45,000 INFO page.AuthPage [main] Main page is opened
+2023-12-05 07:27:45,193 INFO page.AuthPage [main] Auth page is opened
+2023-12-05 07:27:47,397 INFO util.TestListener [main] Test failed: testAuth
+2023-12-05 07:28:50,698 INFO page.AuthPage [main] Main page is opened
+2023-12-05 07:28:50,891 INFO page.AuthPage [main] Auth page is opened
+2023-12-05 07:28:52,189 INFO util.TestListener [main] Test failed: testAuth
+2023-12-05 07:30:42,052 INFO page.AuthPage [main] Main page is opened
+2023-12-05 07:30:42,224 INFO page.AuthPage [main] Auth page is opened
+2023-12-05 07:30:44,483 INFO util.TestListener [main] Test failed: testAuth
+2023-12-05 07:31:32,784 INFO page.AuthPage [main] Main page is opened
+2023-12-05 07:31:32,917 INFO page.AuthPage [main] Auth page is opened
+2023-12-05 07:31:35,040 INFO util.TestListener [main] Test failed: testAuth
+2023-12-05 07:31:59,290 INFO page.AuthPage [main] Main page is opened
+2023-12-05 07:31:59,538 INFO page.AuthPage [main] Auth page is opened
+2023-12-05 07:32:00,768 INFO util.TestListener [main] Test failed: testAuth
+2023-12-05 07:32:36,362 INFO page.AuthPage [main] Main page is opened
+2023-12-05 07:32:36,853 INFO page.AuthPage [main] Auth page is opened
+2023-12-05 07:32:36,854 INFO page.AuthPage [main] enter sect
+2023-12-05 07:32:37,324 INFO page.AuthPage [main] Cookies canceled
+2023-12-05 07:32:38,155 INFO page.AuthPage [main] Phone is filled
+2023-12-05 07:32:38,344 INFO page.AuthPage [main] Password is filled
+2023-12-05 07:32:38,522 INFO page.AuthPage [main] Login button is clicked
+2023-12-05 07:32:41,845 INFO page.AuthPage [main] User is successfully logged in
+2023-12-05 07:32:41,856 INFO page.AuthPage [main] Redirected to the main page. User is authenticated.
+2023-12-05 07:32:59,099 INFO page.AuthPage [main] Main page is opened
+2023-12-05 07:32:59,428 INFO page.AuthPage [main] Auth page is opened
+2023-12-05 07:32:59,429 INFO page.AuthPage [main] enter sect
+2023-12-05 07:32:59,655 INFO page.AuthPage [main] Cookies canceled
+2023-12-05 07:33:00,423 INFO page.AuthPage [main] Phone is filled
+2023-12-05 07:33:00,611 INFO page.AuthPage [main] Password is filled
+2023-12-05 07:33:00,789 INFO page.AuthPage [main] Login button is clicked
+2023-12-05 07:33:04,000 INFO page.AuthPage [main] User is successfully logged in
+2023-12-05 07:33:04,014 INFO page.AuthPage [main] Redirected to the main page. User is authenticated.
+2023-12-05 07:33:20,597 INFO page.AuthPage [main] Main page is opened
+2023-12-05 07:33:20,814 INFO page.AuthPage [main] Auth page is opened
+2023-12-05 07:33:20,814 INFO page.AuthPage [main] enter sect
+2023-12-05 07:33:22,106 INFO util.TestListener [main] Test failed: testAuth
+2023-12-05 07:33:59,423 INFO page.AuthPage [main] Main page is opened
+2023-12-05 07:33:59,591 INFO page.AuthPage [main] Auth page is opened
+2023-12-05 07:34:00,451 INFO page.AuthPage [main] Phone is filled
+2023-12-05 07:34:00,628 INFO page.AuthPage [main] Password is filled
+2023-12-05 07:34:00,819 INFO page.AuthPage [main] Login button is clicked
+2023-12-05 07:34:04,135 INFO page.AuthPage [main] User is successfully logged in
+2023-12-05 07:34:04,150 INFO page.AuthPage [main] Redirected to the main page. User is authenticated.
+2023-12-05 07:36:39,749 INFO page.MainPage [main] Main page is opened
+2023-12-11 18:50:49,174 INFO page.AuthPage [main] Main page is opened
+2023-12-11 18:50:49,214 INFO util.TestListener [main] Test failed: testAuth
+2023-12-11 18:50:49,225 INFO util.TestListener [main] Test failed: testAuth
+2023-12-11 18:52:24,432 INFO page.FavoritePage [main] Main page is opened
+2023-12-11 18:52:24,576 INFO page.FavoritePage [main] Auth page is opened
+2023-12-11 18:52:25,319 INFO page.FavoritePage [main] Phone is filled
+2023-12-11 18:52:25,463 INFO page.FavoritePage [main] Password is filled
+2023-12-11 18:52:25,597 INFO page.FavoritePage [main] Login button is clicked
+2023-12-11 18:52:28,811 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-11 18:52:28,819 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-11 18:52:28,841 INFO util.TestListener [main] Test failed: testFavorites
+2023-12-11 19:02:49,170 INFO page.FavoritePage [main] Main page is opened
+2023-12-11 19:02:49,308 INFO page.FavoritePage [main] Auth page is opened
+2023-12-11 19:02:49,998 INFO page.FavoritePage [main] Phone is filled
+2023-12-11 19:02:50,124 INFO page.FavoritePage [main] Password is filled
+2023-12-11 19:02:50,239 INFO page.FavoritePage [main] Login button is clicked
+2023-12-11 19:02:53,417 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-11 19:02:53,424 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-11 19:02:54,148 INFO page.FavoritePage [main] Car is choice
+2023-12-11 19:02:54,175 INFO util.TestListener [main] Test failed: testFavorites
+2023-12-11 19:03:55,335 INFO page.FavoritePage [main] Main page is opened
+2023-12-11 19:03:55,468 INFO page.FavoritePage [main] Auth page is opened
+2023-12-11 19:03:56,217 INFO page.FavoritePage [main] Phone is filled
+2023-12-11 19:03:56,346 INFO page.FavoritePage [main] Password is filled
+2023-12-11 19:03:56,470 INFO page.FavoritePage [main] Login button is clicked
+2023-12-11 19:03:59,697 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-11 19:03:59,707 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-11 19:04:00,094 INFO page.FavoritePage [main] Car is choice
+2023-12-11 19:04:00,667 INFO page.FavoritePage [main] Car is added to favs
+2023-12-11 21:19:04,132 INFO page.FavoritePage [main] Main page is opened
+2023-12-11 21:19:04,259 INFO page.FavoritePage [main] Auth page is opened
+2023-12-11 21:19:04,966 INFO page.FavoritePage [main] Phone is filled
+2023-12-11 21:19:05,103 INFO page.FavoritePage [main] Password is filled
+2023-12-11 21:19:05,228 INFO page.FavoritePage [main] Login button is clicked
+2023-12-11 21:19:08,348 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-11 21:19:08,356 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-11 21:19:09,165 INFO page.FavoritePage [main] Car is choice
+2023-12-11 21:19:09,689 INFO util.TestListener [main] Test failed: testFavorites
+2023-12-11 21:19:51,365 INFO page.FavoritePage [main] Main page is opened
+2023-12-11 21:19:51,469 INFO page.FavoritePage [main] Auth page is opened
+2023-12-11 21:19:52,187 INFO page.FavoritePage [main] Phone is filled
+2023-12-11 21:19:52,329 INFO page.FavoritePage [main] Password is filled
+2023-12-11 21:19:52,455 INFO page.FavoritePage [main] Login button is clicked
+2023-12-11 21:19:55,611 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-11 21:19:55,618 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-11 21:19:55,837 INFO page.FavoritePage [main] Car is choice
+2023-12-11 21:19:56,399 INFO page.FavoritePage [main] Car is added to favs
+2023-12-11 21:19:56,408 INFO util.TestListener [main] Test failed: testFavorites
+2023-12-11 21:23:36,652 INFO page.FavoritePage [main] Main page is opened
+2023-12-11 21:23:36,756 INFO page.FavoritePage [main] Auth page is opened
+2023-12-11 21:23:37,463 INFO page.FavoritePage [main] Phone is filled
+2023-12-11 21:23:37,596 INFO page.FavoritePage [main] Password is filled
+2023-12-11 21:23:37,711 INFO page.FavoritePage [main] Login button is clicked
+2023-12-11 21:23:40,848 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-11 21:23:40,859 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-11 21:23:42,438 INFO page.FavoritePage [main] Car is choice
+2023-12-11 21:23:42,956 INFO util.TestListener [main] Test failed: testFavorites
+2023-12-11 21:24:39,461 INFO page.FavoritePage [main] Main page is opened
+2023-12-11 21:24:39,577 INFO page.FavoritePage [main] Auth page is opened
+2023-12-11 21:24:40,284 INFO page.FavoritePage [main] Phone is filled
+2023-12-11 21:24:40,421 INFO page.FavoritePage [main] Password is filled
+2023-12-11 21:24:40,549 INFO page.FavoritePage [main] Login button is clicked
+2023-12-11 21:24:43,677 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-11 21:24:43,686 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-11 21:24:45,418 INFO page.FavoritePage [main] Car is choice
+2023-12-11 21:24:45,947 INFO util.TestListener [main] Test failed: testFavorites
+2023-12-11 21:26:01,738 INFO page.FavoritePage [main] Main page is opened
+2023-12-11 21:26:01,845 INFO page.FavoritePage [main] Auth page is opened
+2023-12-11 21:26:02,554 INFO page.FavoritePage [main] Phone is filled
+2023-12-11 21:26:02,695 INFO page.FavoritePage [main] Password is filled
+2023-12-11 21:26:02,821 INFO page.FavoritePage [main] Login button is clicked
+2023-12-11 21:26:05,953 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-11 21:26:05,973 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-11 21:26:09,075 INFO page.FavoritePage [main] Car is choice
+2023-12-11 21:26:10,095 INFO util.TestListener [main] Test failed: testFavorites
+2023-12-11 23:30:26,972 INFO page.FavoritePage [main] Main page is opened
+2023-12-11 23:30:26,991 INFO util.TestListener [main] Test failed: testFavorites
+2023-12-11 23:30:27,001 INFO util.TestListener [main] Test failed: testFavorites
+2023-12-12 00:52:57,699 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 00:52:57,832 INFO page.FavoritePage [main] Auth page is opened
+2023-12-12 00:52:58,545 INFO page.FavoritePage [main] Phone is filled
+2023-12-12 00:52:58,676 INFO page.FavoritePage [main] Password is filled
+2023-12-12 00:52:58,805 INFO page.FavoritePage [main] Login button is clicked
+2023-12-12 00:53:01,944 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-12 00:53:01,952 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-12 00:53:02,374 INFO page.FavoritePage [main] Car is choice
+2023-12-12 00:53:03,432 INFO page.FavoritePage [main] Car is added to favs
+2023-12-12 00:53:04,448 INFO util.TestListener [main] Test failed: testFavorites
+2023-12-12 00:54:45,549 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 00:54:45,687 INFO page.FavoritePage [main] Auth page is opened
+2023-12-12 00:54:46,392 INFO page.FavoritePage [main] Phone is filled
+2023-12-12 00:54:46,523 INFO page.FavoritePage [main] Password is filled
+2023-12-12 00:54:46,647 INFO page.FavoritePage [main] Login button is clicked
+2023-12-12 00:54:49,813 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-12 00:54:49,823 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-12 00:54:50,511 INFO page.FavoritePage [main] Car is choice
+2023-12-12 00:54:51,573 INFO page.FavoritePage [main] Car is added to favs
+2023-12-12 00:54:52,796 INFO page.FavoritePage [main] Openned fav
+2023-12-12 01:14:44,488 INFO page.VinPage [main] Vin page is opened
+2023-12-12 01:16:51,151 INFO page.VinPage [main] Vin page is opened
+2023-12-12 01:16:51,297 INFO util.TestListener [main] Test failed: testCorrectVin
+2023-12-12 01:18:42,399 INFO page.VinPage [main] Vin page is opened
+2023-12-12 01:18:44,027 INFO util.TestListener [main] Test failed: testCorrectVin
+2023-12-12 01:27:03,122 INFO page.VinPage [main] Vin page is opened
+2023-12-12 01:28:19,628 INFO page.VinPage [main] Vin page is opened
+2023-12-12 01:28:27,318 INFO page.VinPage [main] Vin page is opened
+2023-12-12 01:28:30,502 INFO util.TestListener [main] Test failed: testUnCorrectVin
+2023-12-12 01:33:25,921 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 01:33:26,213 INFO page.FavoritePage [main] Auth page is opened
+2023-12-12 01:33:26,976 INFO page.FavoritePage [main] Phone is filled
+2023-12-12 01:33:27,106 INFO page.FavoritePage [main] Password is filled
+2023-12-12 01:33:27,230 INFO page.FavoritePage [main] Login button is clicked
+2023-12-12 01:33:30,400 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-12 01:33:30,407 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-12 01:33:30,932 INFO page.FavoritePage [main] Car is choice
+2023-12-12 01:33:31,953 INFO util.TestListener [main] Test failed: testFavorites
+2023-12-12 01:34:20,591 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 01:34:20,784 INFO page.FavoritePage [main] Auth page is opened
+2023-12-12 01:34:21,501 INFO page.FavoritePage [main] Phone is filled
+2023-12-12 01:34:21,659 INFO page.FavoritePage [main] Password is filled
+2023-12-12 01:34:21,813 INFO page.FavoritePage [main] Login button is clicked
+2023-12-12 01:34:24,975 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-12 01:34:24,983 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-12 01:34:25,389 INFO page.FavoritePage [main] Car is choice
+2023-12-12 01:34:26,458 INFO page.FavoritePage [main] Car is added to favs
+2023-12-12 01:34:27,667 INFO page.FavoritePage [main] Openned fav
+2023-12-12 01:35:18,444 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 01:35:18,549 INFO page.FavoritePage [main] Auth page is opened
+2023-12-12 01:35:19,258 INFO page.FavoritePage [main] Phone is filled
+2023-12-12 01:35:19,395 INFO page.FavoritePage [main] Password is filled
+2023-12-12 01:35:19,527 INFO page.FavoritePage [main] Login button is clicked
+2023-12-12 01:35:22,694 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-12 01:35:22,703 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-12 01:35:23,114 INFO page.FavoritePage [main] Car is choice
+2023-12-12 01:35:23,127 INFO util.TestListener [main] Test failed: testDeleteFavorites
+2023-12-12 01:35:28,691 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 01:35:28,805 INFO page.FavoritePage [main] Auth page is opened
+2023-12-12 01:35:29,518 INFO page.FavoritePage [main] Phone is filled
+2023-12-12 01:35:29,686 INFO page.FavoritePage [main] Password is filled
+2023-12-12 01:35:29,918 INFO page.FavoritePage [main] Login button is clicked
+2023-12-12 01:35:33,146 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-12 01:35:33,155 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-12 01:35:33,605 INFO page.FavoritePage [main] Car is choice
+2023-12-12 01:35:34,627 INFO util.TestListener [main] Test failed: testFavorites
+2023-12-12 01:35:56,553 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 01:35:56,674 INFO page.FavoritePage [main] Auth page is opened
+2023-12-12 01:35:57,429 INFO page.FavoritePage [main] Phone is filled
+2023-12-12 01:35:57,556 INFO page.FavoritePage [main] Password is filled
+2023-12-12 01:35:57,680 INFO page.FavoritePage [main] Login button is clicked
+2023-12-12 01:36:00,851 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-12 01:36:00,859 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-12 01:36:01,803 INFO page.FavoritePage [main] Car is choice
+2023-12-12 01:36:01,818 INFO util.TestListener [main] Test failed: testDeleteFavorites
+2023-12-12 01:36:07,065 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 01:36:07,180 INFO page.FavoritePage [main] Auth page is opened
+2023-12-12 01:36:07,859 INFO page.FavoritePage [main] Phone is filled
+2023-12-12 01:36:08,007 INFO page.FavoritePage [main] Password is filled
+2023-12-12 01:36:08,159 INFO page.FavoritePage [main] Login button is clicked
+2023-12-12 01:36:11,329 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-12 01:36:11,336 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-12 01:36:11,805 INFO page.FavoritePage [main] Car is choice
+2023-12-12 01:36:12,892 INFO page.FavoritePage [main] Car is added to favs
+2023-12-12 01:36:14,118 INFO page.FavoritePage [main] Openned fav
+2023-12-12 01:37:20,225 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 01:37:20,358 INFO page.FavoritePage [main] Auth page is opened
+2023-12-12 01:37:21,098 INFO page.FavoritePage [main] Phone is filled
+2023-12-12 01:37:21,224 INFO page.FavoritePage [main] Password is filled
+2023-12-12 01:37:21,346 INFO page.FavoritePage [main] Login button is clicked
+2023-12-12 01:37:24,482 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-12 01:37:24,492 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-12 01:37:25,264 INFO page.FavoritePage [main] Car is choice
+2023-12-12 01:37:26,286 INFO util.TestListener [main] Test failed: testDeleteFavorites
+2023-12-12 01:37:33,850 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 01:37:33,964 INFO page.FavoritePage [main] Auth page is opened
+2023-12-12 01:37:34,653 INFO page.FavoritePage [main] Phone is filled
+2023-12-12 01:37:34,785 INFO page.FavoritePage [main] Password is filled
+2023-12-12 01:37:34,909 INFO page.FavoritePage [main] Login button is clicked
+2023-12-12 01:37:38,118 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-12 01:37:38,126 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-12 01:37:38,741 INFO page.FavoritePage [main] Car is choice
+2023-12-12 01:37:39,776 INFO util.TestListener [main] Test failed: testFavorites
+2023-12-12 01:38:15,482 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 01:38:15,620 INFO page.FavoritePage [main] Auth page is opened
+2023-12-12 01:38:16,332 INFO page.FavoritePage [main] Phone is filled
+2023-12-12 01:38:16,478 INFO page.FavoritePage [main] Password is filled
+2023-12-12 01:38:16,612 INFO page.FavoritePage [main] Login button is clicked
+2023-12-12 01:38:19,752 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-12 01:38:19,761 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-12 01:38:20,220 INFO page.FavoritePage [main] Car is choice
+2023-12-12 01:38:21,237 INFO util.TestListener [main] Test failed: testDeleteFavorites
+2023-12-12 01:38:27,746 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 01:38:27,879 INFO page.FavoritePage [main] Auth page is opened
+2023-12-12 01:38:28,569 INFO page.FavoritePage [main] Phone is filled
+2023-12-12 01:38:28,702 INFO page.FavoritePage [main] Password is filled
+2023-12-12 01:38:28,829 INFO page.FavoritePage [main] Login button is clicked
+2023-12-12 01:38:31,975 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-12 01:38:31,983 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-12 01:38:33,272 INFO page.FavoritePage [main] Car is choice
+2023-12-12 01:38:34,344 INFO page.FavoritePage [main] Car is added to favs
+2023-12-12 01:38:35,895 INFO page.FavoritePage [main] Openned fav
+2023-12-12 01:39:07,143 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 01:39:07,264 INFO page.FavoritePage [main] Auth page is opened
+2023-12-12 01:39:08,030 INFO page.FavoritePage [main] Phone is filled
+2023-12-12 01:39:08,165 INFO page.FavoritePage [main] Password is filled
+2023-12-12 01:39:08,290 INFO page.FavoritePage [main] Login button is clicked
+2023-12-12 01:39:11,438 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-12 01:39:11,446 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-12 01:39:12,928 INFO page.FavoritePage [main] Car is choice
+2023-12-12 01:39:14,504 INFO page.FavoritePage [main] Car is added to favs
+2023-12-12 01:39:16,025 INFO util.TestListener [main] Test failed: testDeleteFavorites
+2023-12-12 01:39:22,017 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 01:39:22,133 INFO page.FavoritePage [main] Auth page is opened
+2023-12-12 01:39:22,936 INFO page.FavoritePage [main] Phone is filled
+2023-12-12 01:39:23,127 INFO page.FavoritePage [main] Password is filled
+2023-12-12 01:39:23,281 INFO page.FavoritePage [main] Login button is clicked
+2023-12-12 01:39:26,528 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-12 01:39:26,537 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-12 01:39:27,325 INFO page.FavoritePage [main] Car is choice
+2023-12-12 01:39:28,352 INFO util.TestListener [main] Test failed: testFavorites
+2023-12-12 01:42:34,183 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 01:42:34,291 INFO page.FavoritePage [main] Auth page is opened
+2023-12-12 01:42:35,009 INFO page.FavoritePage [main] Phone is filled
+2023-12-12 01:42:35,163 INFO page.FavoritePage [main] Password is filled
+2023-12-12 01:42:35,303 INFO page.FavoritePage [main] Login button is clicked
+2023-12-12 01:42:38,459 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-12 01:42:38,469 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-12 01:42:39,126 INFO page.FavoritePage [main] Car is choice
+2023-12-12 01:42:40,732 INFO page.FavoritePage [main] Car is added to favs
+2023-12-12 01:42:42,280 INFO page.FavoritePage [main] Car is deleted to favs
+2023-12-12 01:42:42,768 INFO page.FavoritePage [main] Openned fav
+2023-12-12 01:42:43,790 INFO util.TestListener [main] Test failed: testDeleteFavorites
+2023-12-12 01:42:50,116 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 01:42:50,241 INFO page.FavoritePage [main] Auth page is opened
+2023-12-12 01:42:50,994 INFO page.FavoritePage [main] Phone is filled
+2023-12-12 01:42:51,153 INFO page.FavoritePage [main] Password is filled
+2023-12-12 01:42:51,292 INFO page.FavoritePage [main] Login button is clicked
+2023-12-12 01:42:54,459 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-12 01:42:54,470 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-12 01:42:55,035 INFO page.FavoritePage [main] Car is choice
+2023-12-12 01:42:56,107 INFO page.FavoritePage [main] Car is added to favs
+2023-12-12 01:42:57,410 INFO page.FavoritePage [main] Openned fav
+2023-12-12 01:43:20,252 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 01:43:20,278 INFO util.TestListener [main] Test failed: testDeleteFavorites
+2023-12-12 01:43:20,294 INFO util.TestListener [main] Test failed: testDeleteFavorites
+2023-12-12 01:43:56,086 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 01:43:56,215 INFO page.FavoritePage [main] Auth page is opened
+2023-12-12 01:43:56,929 INFO page.FavoritePage [main] Phone is filled
+2023-12-12 01:43:57,071 INFO page.FavoritePage [main] Password is filled
+2023-12-12 01:43:57,206 INFO page.FavoritePage [main] Login button is clicked
+2023-12-12 01:44:00,384 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-12 01:44:00,391 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-12 01:44:00,888 INFO page.FavoritePage [main] Car is choice
+2023-12-12 01:44:02,453 INFO page.FavoritePage [main] Car is added to favs
+2023-12-12 01:44:04,000 INFO page.FavoritePage [main] Car is deleted to favs
+2023-12-12 01:44:04,173 INFO page.FavoritePage [main] Openned fav
+2023-12-12 01:44:05,210 INFO util.TestListener [main] Test failed: testDeleteFavorites
+2023-12-12 01:44:08,321 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 01:44:08,326 INFO util.TestListener [main] Test failed: testFavorites
+2023-12-12 01:44:08,331 INFO util.TestListener [main] Test failed: testFavorites
+2023-12-12 01:44:37,580 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 01:44:37,674 INFO page.FavoritePage [main] Auth page is opened
+2023-12-12 01:44:38,381 INFO page.FavoritePage [main] Phone is filled
+2023-12-12 01:44:38,537 INFO page.FavoritePage [main] Password is filled
+2023-12-12 01:44:38,673 INFO page.FavoritePage [main] Login button is clicked
+2023-12-12 01:44:41,848 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-12 01:44:41,867 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-12 01:44:43,006 INFO util.TestListener [main] Test failed: testDeleteFavorites
+2023-12-12 01:44:52,014 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 01:44:52,138 INFO page.FavoritePage [main] Auth page is opened
+2023-12-12 01:44:52,939 INFO page.FavoritePage [main] Phone is filled
+2023-12-12 01:44:53,172 INFO page.FavoritePage [main] Password is filled
+2023-12-12 01:44:53,350 INFO page.FavoritePage [main] Login button is clicked
+2023-12-12 01:44:56,540 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-12 01:44:56,546 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-12 01:44:57,081 INFO page.FavoritePage [main] Car is choice
+2023-12-12 01:44:58,136 INFO page.FavoritePage [main] Car is added to favs
+2023-12-12 01:44:59,314 INFO page.FavoritePage [main] Openned fav
+2023-12-12 01:45:20,020 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 01:45:21,164 INFO util.TestListener [main] Test failed: testDeleteFavorites
+2023-12-12 01:45:27,233 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 01:45:27,350 INFO page.FavoritePage [main] Auth page is opened
+2023-12-12 01:45:28,066 INFO page.FavoritePage [main] Phone is filled
+2023-12-12 01:45:28,223 INFO page.FavoritePage [main] Password is filled
+2023-12-12 01:45:28,352 INFO page.FavoritePage [main] Login button is clicked
+2023-12-12 01:45:31,550 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-12 01:45:31,559 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-12 01:45:32,014 INFO page.FavoritePage [main] Car is choice
+2023-12-12 01:45:33,034 INFO util.TestListener [main] Test failed: testFavorites
+2023-12-12 01:46:26,187 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 01:46:26,303 INFO page.FavoritePage [main] Auth page is opened
+2023-12-12 01:46:27,030 INFO page.FavoritePage [main] Phone is filled
+2023-12-12 01:46:27,171 INFO page.FavoritePage [main] Password is filled
+2023-12-12 01:46:27,302 INFO page.FavoritePage [main] Login button is clicked
+2023-12-12 01:46:30,519 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-12 01:46:30,526 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-12 01:46:31,105 INFO page.FavoritePage [main] Car is choice
+2023-12-12 01:46:32,666 INFO page.FavoritePage [main] Car is added to favs
+2023-12-12 01:46:34,216 INFO page.FavoritePage [main] Car is deleted to favs
+2023-12-12 01:46:34,385 INFO page.FavoritePage [main] Openned fav
+2023-12-12 01:46:35,408 INFO util.TestListener [main] Test failed: testDeleteFavorites
+2023-12-12 01:46:45,946 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 01:46:46,049 INFO page.FavoritePage [main] Auth page is opened
+2023-12-12 01:46:46,716 INFO page.FavoritePage [main] Phone is filled
+2023-12-12 01:46:46,860 INFO page.FavoritePage [main] Password is filled
+2023-12-12 01:46:46,982 INFO page.FavoritePage [main] Login button is clicked
+2023-12-12 01:46:50,143 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-12 01:46:50,152 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-12 01:47:21,060 INFO page.FavoritePage [main] Car is choice
+2023-12-12 01:47:22,067 INFO util.TestListener [main] Test failed: testFavorites
+2023-12-12 01:47:22,070 INFO util.TestListener [main] Test failed: testFavorites
+2023-12-12 01:49:46,640 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 01:49:46,742 INFO page.FavoritePage [main] Auth page is opened
+2023-12-12 01:49:47,465 INFO page.FavoritePage [main] Phone is filled
+2023-12-12 01:49:47,617 INFO page.FavoritePage [main] Password is filled
+2023-12-12 01:49:47,757 INFO page.FavoritePage [main] Login button is clicked
+2023-12-12 01:49:50,887 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-12 01:49:50,895 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-12 01:49:51,341 INFO page.FavoritePage [main] Car is choice
+2023-12-12 01:49:52,911 INFO page.FavoritePage [main] Car is added to favs
+2023-12-12 01:49:54,479 INFO page.FavoritePage [main] Car is deleted to favs
+2023-12-12 01:49:54,653 INFO page.FavoritePage [main] Openned fav
+2023-12-12 01:50:01,959 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 01:50:02,082 INFO page.FavoritePage [main] Auth page is opened
+2023-12-12 01:50:02,830 INFO page.FavoritePage [main] Phone is filled
+2023-12-12 01:50:02,982 INFO page.FavoritePage [main] Password is filled
+2023-12-12 01:50:03,121 INFO page.FavoritePage [main] Login button is clicked
+2023-12-12 01:50:06,273 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-12 01:50:06,284 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-12 01:50:06,820 INFO page.FavoritePage [main] Car is choice
+2023-12-12 01:50:07,891 INFO page.FavoritePage [main] Car is added to favs
+2023-12-12 01:50:09,079 INFO page.FavoritePage [main] Openned fav
+2023-12-12 01:50:26,691 INFO page.MainPage [main] Main page is opened
+2023-12-12 01:50:39,432 INFO page.AuthPage [main] Main page is opened
+2023-12-12 01:50:39,559 INFO page.AuthPage [main] Auth page is opened
+2023-12-12 01:50:40,249 INFO page.AuthPage [main] Phone is filled
+2023-12-12 01:50:40,387 INFO page.AuthPage [main] Password is filled
+2023-12-12 01:50:40,517 INFO page.AuthPage [main] Login button is clicked
+2023-12-12 01:50:43,658 INFO page.AuthPage [main] User is successfully logged in
+2023-12-12 01:50:43,667 INFO page.AuthPage [main] Redirected to the main page. User is authenticated.
+2023-12-12 02:32:09,096 INFO page.SearchedPage [main] Main page is opened
+2023-12-12 02:32:09,227 INFO page.SearchedPage [main] Auth page is opened
+2023-12-12 02:32:10,395 INFO util.TestListener [main] Test failed: testSearches
+2023-12-12 02:33:22,901 INFO page.SearchedPage [main] Main page is opened
+2023-12-12 02:33:23,043 INFO page.SearchedPage [main] Auth page is opened
+2023-12-12 02:33:23,742 INFO page.SearchedPage [main] Phone is filled
+2023-12-12 02:33:23,882 INFO page.SearchedPage [main] Password is filled
+2023-12-12 02:33:24,012 INFO page.SearchedPage [main] Login button is clicked
+2023-12-12 02:33:34,935 INFO util.TestListener [main] Test failed: testSearches
+2023-12-12 02:35:35,729 INFO page.SearchedPage [main] Main page is opened
+2023-12-12 02:35:35,857 INFO page.SearchedPage [main] Auth page is opened
+2023-12-12 02:35:36,577 INFO page.SearchedPage [main] Phone is filled
+2023-12-12 02:35:36,715 INFO page.SearchedPage [main] Password is filled
+2023-12-12 02:35:36,854 INFO page.SearchedPage [main] Login button is clicked
+2023-12-12 02:35:46,984 INFO util.TestListener [main] Test failed: testSearches
+2023-12-12 02:36:21,525 INFO page.SearchedPage [main] Main page is opened
+2023-12-12 02:36:21,657 INFO page.SearchedPage [main] Auth page is opened
+2023-12-12 02:36:22,385 INFO page.SearchedPage [main] Phone is filled
+2023-12-12 02:36:22,534 INFO page.SearchedPage [main] Password is filled
+2023-12-12 02:36:22,666 INFO page.SearchedPage [main] Login button is clicked
+2023-12-12 02:36:53,497 INFO page.SearchedPage [main] Main page is opened
+2023-12-12 02:36:53,621 INFO page.SearchedPage [main] Auth page is opened
+2023-12-12 02:36:54,319 INFO page.SearchedPage [main] Phone is filled
+2023-12-12 02:36:54,458 INFO page.SearchedPage [main] Password is filled
+2023-12-12 02:36:54,594 INFO page.SearchedPage [main] Login button is clicked
+2023-12-12 02:36:56,804 INFO util.TestListener [main] Test failed: testSearches
+2023-12-12 02:37:15,400 INFO page.SearchedPage [main] Main page is opened
+2023-12-12 02:37:15,544 INFO page.SearchedPage [main] Auth page is opened
+2023-12-12 02:37:16,263 INFO page.SearchedPage [main] Phone is filled
+2023-12-12 02:37:16,402 INFO page.SearchedPage [main] Password is filled
+2023-12-12 02:37:16,527 INFO page.SearchedPage [main] Login button is clicked
+2023-12-12 11:11:30,617 INFO page.AuthPage [main] Main page is opened
+2023-12-12 11:11:30,720 INFO page.AuthPage [main] Auth page is opened
+2023-12-12 11:11:31,433 INFO page.AuthPage [main] Phone is filled
+2023-12-12 11:11:31,572 INFO page.AuthPage [main] Password is filled
+2023-12-12 11:11:31,698 INFO page.AuthPage [main] Login button is clicked
+2023-12-12 11:11:34,853 INFO page.AuthPage [main] User is successfully logged in
+2023-12-12 11:11:34,864 INFO page.AuthPage [main] Redirected to the main page. User is authenticated.
+2023-12-12 11:11:49,310 INFO page.MainPage [main] Main page is opened
+2023-12-12 11:12:04,658 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 11:12:04,753 INFO page.FavoritePage [main] Auth page is opened
+2023-12-12 11:12:05,452 INFO page.FavoritePage [main] Phone is filled
+2023-12-12 11:12:05,573 INFO page.FavoritePage [main] Password is filled
+2023-12-12 11:12:05,686 INFO page.FavoritePage [main] Login button is clicked
+2023-12-12 11:12:08,817 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-12 11:12:08,825 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-12 11:12:09,499 INFO page.FavoritePage [main] Car is choice
+2023-12-12 11:12:11,058 INFO page.FavoritePage [main] Car is added to favs
+2023-12-12 11:12:12,608 INFO page.FavoritePage [main] Car is deleted to favs
+2023-12-12 11:12:12,892 INFO page.FavoritePage [main] Openned fav
+2023-12-12 11:12:13,917 INFO util.TestListener [main] Test failed: testDeleteFavorites
+2023-12-12 11:12:20,202 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 11:12:20,378 INFO page.FavoritePage [main] Auth page is opened
+2023-12-12 11:12:21,337 INFO page.FavoritePage [main] Phone is filled
+2023-12-12 11:12:31,882 INFO page.FavoritePage [main] Password is filled
+2023-12-12 11:14:17,715 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 11:14:19,942 INFO page.FavoritePage [main] Auth page is opened
+2023-12-12 11:14:24,318 INFO page.FavoritePage [main] Phone is filled
+2023-12-12 11:14:26,159 INFO page.FavoritePage [main] Password is filled
+2023-12-12 11:14:28,397 INFO page.FavoritePage [main] Login button is clicked
+2023-12-12 11:14:31,420 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-12 11:14:31,592 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-12 11:14:36,642 INFO page.FavoritePage [main] Car is choice
+2023-12-12 11:14:39,318 INFO util.TestListener [main] Test failed: testDeleteFavorites
+2023-12-12 11:14:42,646 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 11:14:56,768 INFO util.TestListener [main] Test failed: testDeleteFavorites
+2023-12-12 11:14:56,878 INFO util.TestListener [main] Test failed: testDeleteFavorites
+2023-12-12 11:47:55,311 INFO page.MainPage [main] Main page is opened
+2023-12-12 11:48:13,843 INFO page.AuthPage [main] Main page is opened
+2023-12-12 11:48:14,004 INFO page.AuthPage [main] Auth page is opened
+2023-12-12 11:48:14,736 INFO page.AuthPage [main] Phone is filled
+2023-12-12 11:48:14,912 INFO page.AuthPage [main] Password is filled
+2023-12-12 11:48:15,114 INFO page.AuthPage [main] Login button is clicked
+2023-12-12 11:48:18,262 INFO page.AuthPage [main] User is successfully logged in
+2023-12-12 11:48:18,262 INFO page.AuthPage [main] Redirected to the main page. User is authenticated.
+2023-12-12 11:48:29,345 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 11:48:29,496 INFO page.FavoritePage [main] Auth page is opened
+2023-12-12 11:48:30,220 INFO page.FavoritePage [main] Phone is filled
+2023-12-12 11:48:30,380 INFO page.FavoritePage [main] Password is filled
+2023-12-12 11:48:30,541 INFO page.FavoritePage [main] Login button is clicked
+2023-12-12 11:48:33,687 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-12 11:48:33,697 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-12 11:48:34,501 INFO page.FavoritePage [main] Car is choice
+2023-12-12 11:48:36,075 INFO page.FavoritePage [main] Car is added to favs
+2023-12-12 11:48:37,625 INFO page.FavoritePage [main] Car is deleted to favs
+2023-12-12 11:48:37,882 INFO page.FavoritePage [main] Openned fav
+2023-12-12 11:48:44,710 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 11:48:44,825 INFO page.FavoritePage [main] Auth page is opened
+2023-12-12 11:48:45,515 INFO page.FavoritePage [main] Phone is filled
+2023-12-12 11:48:45,669 INFO page.FavoritePage [main] Password is filled
+2023-12-12 11:48:45,811 INFO page.FavoritePage [main] Login button is clicked
+2023-12-12 11:48:48,994 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-12 11:48:49,000 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-12 11:48:49,450 INFO page.FavoritePage [main] Car is choice
+2023-12-12 11:48:50,521 INFO page.FavoritePage [main] Car is added to favs
+2023-12-12 11:48:51,758 INFO page.FavoritePage [main] Openned fav
+2023-12-12 11:49:13,576 INFO page.SearchedPage [main] Main page is opened
+2023-12-12 11:49:13,707 INFO page.SearchedPage [main] Auth page is opened
+2023-12-12 11:49:14,398 INFO page.SearchedPage [main] Phone is filled
+2023-12-12 11:49:14,533 INFO page.SearchedPage [main] Password is filled
+2023-12-12 11:49:14,664 INFO page.SearchedPage [main] Login button is clicked
+2023-12-12 11:49:15,768 INFO util.TestListener [main] Test failed: testSearches
+2023-12-12 11:49:33,978 INFO page.SearchedPage [main] Main page is opened
+2023-12-12 11:49:34,091 INFO page.SearchedPage [main] Auth page is opened
+2023-12-12 11:49:34,812 INFO page.SearchedPage [main] Phone is filled
+2023-12-12 11:49:34,979 INFO page.SearchedPage [main] Password is filled
+2023-12-12 11:49:35,122 INFO page.SearchedPage [main] Login button is clicked
+2023-12-12 11:49:36,248 INFO util.TestListener [main] Test failed: testSearches
+2023-12-12 11:50:30,862 INFO page.SearchedPage [main] Main page is opened
+2023-12-12 11:50:31,002 INFO page.SearchedPage [main] Auth page is opened
+2023-12-12 11:50:31,743 INFO page.SearchedPage [main] Phone is filled
+2023-12-12 11:50:31,916 INFO page.SearchedPage [main] Password is filled
+2023-12-12 11:50:32,068 INFO page.SearchedPage [main] Login button is clicked
+2023-12-12 11:50:58,939 INFO page.VinPage [main] Vin page is opened
+2023-12-12 11:51:05,945 INFO page.VinPage [main] Vin page is opened
+2023-12-12 11:51:09,132 INFO util.TestListener [main] Test failed: testUnCorrectVin
+2023-12-12 12:11:21,151 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 12:11:21,346 INFO page.FavoritePage [main] Auth page is opened
+2023-12-12 12:11:22,173 INFO page.FavoritePage [main] Phone is filled
+2023-12-12 12:11:22,421 INFO page.FavoritePage [main] Password is filled
+2023-12-12 12:11:22,616 INFO page.FavoritePage [main] Login button is clicked
+2023-12-12 12:11:25,802 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-12 12:11:25,816 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-12 12:11:26,623 INFO page.FavoritePage [main] Car is choice
+2023-12-12 12:11:28,243 INFO page.FavoritePage [main] Car is added to favs
+2023-12-12 12:11:29,817 INFO page.FavoritePage [main] Car is deleted to favs
+2023-12-12 12:11:30,230 INFO page.FavoritePage [main] Openned fav
+2023-12-12 12:11:43,018 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 12:11:43,177 INFO page.FavoritePage [main] Auth page is opened
+2023-12-12 12:11:43,965 INFO page.FavoritePage [main] Phone is filled
+2023-12-12 12:11:44,178 INFO page.FavoritePage [main] Password is filled
+2023-12-12 12:11:44,388 INFO page.FavoritePage [main] Login button is clicked
+2023-12-12 12:11:47,602 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-12 12:11:47,615 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-12 12:11:48,177 INFO page.FavoritePage [main] Car is choice
+2023-12-12 12:11:49,208 INFO util.TestListener [main] Test failed: testFavorites
+2023-12-12 12:12:44,911 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 12:12:44,929 INFO util.TestListener [main] Test failed: testDeleteFavorites
+2023-12-12 12:12:44,939 INFO util.TestListener [main] Test failed: testDeleteFavorites
+2023-12-12 12:13:06,003 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 12:13:06,156 INFO page.FavoritePage [main] Auth page is opened
+2023-12-12 12:13:06,967 INFO page.FavoritePage [main] Phone is filled
+2023-12-12 12:13:07,171 INFO page.FavoritePage [main] Password is filled
+2023-12-12 12:13:07,351 INFO page.FavoritePage [main] Login button is clicked
+2023-12-12 12:13:10,524 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-12 12:13:10,538 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-12 12:13:11,434 INFO page.FavoritePage [main] Car is choice
+2023-12-12 12:13:12,962 INFO util.TestListener [main] Test failed: testDeleteFavorites
+2023-12-12 12:13:23,948 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 12:13:23,954 INFO util.TestListener [main] Test failed: testFavorites
+2023-12-12 12:13:23,958 INFO util.TestListener [main] Test failed: testFavorites
+2023-12-12 12:13:53,054 INFO page.SearchedPage [main] Main page is opened
+2023-12-12 12:13:53,211 INFO page.SearchedPage [main] Auth page is opened
+2023-12-12 12:13:54,007 INFO page.SearchedPage [main] Phone is filled
+2023-12-12 12:13:54,233 INFO page.SearchedPage [main] Password is filled
+2023-12-12 12:13:54,420 INFO page.SearchedPage [main] Login button is clicked
+2023-12-12 12:13:56,201 INFO page.SearchedPage [main] Выбраны BMWs
+2023-12-12 12:13:57,236 INFO util.TestListener [main] Test failed: testSearches
+2023-12-12 12:14:25,345 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 12:14:25,448 INFO page.FavoritePage [main] Auth page is opened
+2023-12-12 12:14:26,156 INFO page.FavoritePage [main] Phone is filled
+2023-12-12 12:14:26,299 INFO page.FavoritePage [main] Password is filled
+2023-12-12 12:14:26,432 INFO page.FavoritePage [main] Login button is clicked
+2023-12-12 12:14:29,579 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-12 12:14:29,586 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-12 12:14:30,089 INFO page.FavoritePage [main] Car is choice
+2023-12-12 12:14:31,656 INFO page.FavoritePage [main] Car is added to favs
+2023-12-12 12:14:33,204 INFO page.FavoritePage [main] Car is deleted to favs
+2023-12-12 12:14:33,645 INFO page.FavoritePage [main] Openned fav
+2023-12-12 12:14:39,351 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 12:14:39,459 INFO page.FavoritePage [main] Auth page is opened
+2023-12-12 12:14:40,219 INFO page.FavoritePage [main] Phone is filled
+2023-12-12 12:14:40,398 INFO page.FavoritePage [main] Password is filled
+2023-12-12 12:14:40,545 INFO page.FavoritePage [main] Login button is clicked
+2023-12-12 12:14:43,694 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-12 12:14:43,701 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-12 12:14:44,278 INFO page.FavoritePage [main] Car is choice
+2023-12-12 12:14:45,382 INFO page.FavoritePage [main] Car is added to favs
+2023-12-12 12:14:46,659 INFO page.FavoritePage [main] Openned fav
+2023-12-12 12:17:27,323 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 12:17:27,440 INFO page.FavoritePage [main] Auth page is opened
+2023-12-12 12:17:28,133 INFO page.FavoritePage [main] Phone is filled
+2023-12-12 12:17:28,260 INFO page.FavoritePage [main] Password is filled
+2023-12-12 12:17:28,388 INFO page.FavoritePage [main] Login button is clicked
+2023-12-12 12:17:31,564 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-12 12:17:31,571 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-12 12:17:32,280 INFO page.FavoritePage [main] Car is choice
+2023-12-12 12:17:33,544 INFO page.FavoritePage [main] Car is added to favs
+2023-12-12 12:17:35,120 INFO page.FavoritePage [main] Car is deleted to favs
+2023-12-12 12:17:35,390 INFO page.FavoritePage [main] Openned fav
+2023-12-12 12:17:55,750 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 12:17:55,821 INFO page.FavoritePage [main] Auth page is opened
+2023-12-12 12:20:09,097 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 12:20:09,229 INFO page.FavoritePage [main] Auth page is opened
+2023-12-12 12:20:09,963 INFO page.FavoritePage [main] Phone is filled
+2023-12-12 12:20:10,120 INFO page.FavoritePage [main] Password is filled
+2023-12-12 12:20:10,264 INFO page.FavoritePage [main] Login button is clicked
+2023-12-12 12:20:13,407 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-12 12:20:13,417 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-12 12:20:13,902 INFO page.FavoritePage [main] Car is choice
+2023-12-12 12:20:15,130 INFO page.FavoritePage [main] Car is added to favs
+2023-12-12 12:20:16,715 INFO page.FavoritePage [main] Car is deleted to favs
+2023-12-12 12:20:16,998 INFO page.FavoritePage [main] Openned fav
+2023-12-12 12:20:24,119 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 12:20:24,231 INFO page.FavoritePage [main] Auth page is opened
+2023-12-12 12:20:24,899 INFO page.FavoritePage [main] Phone is filled
+2023-12-12 12:20:25,025 INFO page.FavoritePage [main] Password is filled
+2023-12-12 12:20:25,133 INFO page.FavoritePage [main] Login button is clicked
+2023-12-12 12:20:28,266 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-12 12:20:28,273 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-12 12:20:28,412 INFO page.FavoritePage [main] Car is choice
+2023-12-12 12:20:40,505 INFO page.FavoritePage [main] Car is added to favs
+2023-12-12 12:20:40,818 INFO page.FavoritePage [main] Openned fav
+2023-12-12 12:21:01,876 INFO page.SearchedPage [main] Main page is opened
+2023-12-12 12:21:01,987 INFO page.SearchedPage [main] Auth page is opened
+2023-12-12 12:21:02,696 INFO page.SearchedPage [main] Phone is filled
+2023-12-12 12:21:02,849 INFO page.SearchedPage [main] Password is filled
+2023-12-12 12:21:02,981 INFO page.SearchedPage [main] Login button is clicked
+2023-12-12 12:21:04,346 INFO page.SearchedPage [main] Выбраны BMWs
+2023-12-12 12:21:05,551 INFO page.SearchedPage [main] Открыта модель
+2023-12-12 12:21:05,674 INFO page.SearchedPage [main] Выбрана модель
+2023-12-12 12:21:06,866 INFO page.SearchedPage [main] Открыто поколение
+2023-12-12 12:21:06,975 INFO page.SearchedPage [main] Поколение выбрано
+2023-12-12 12:21:07,091 INFO page.SearchedPage [main] Осуществлён поиск
+2023-12-12 12:21:07,180 INFO page.SearchedPage [main] Поиск сохранён
+2023-12-12 12:22:06,638 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 12:22:06,772 INFO page.FavoritePage [main] Auth page is opened
+2023-12-12 12:22:07,508 INFO page.FavoritePage [main] Phone is filled
+2023-12-12 12:22:07,661 INFO page.FavoritePage [main] Password is filled
+2023-12-12 12:22:07,885 INFO page.FavoritePage [main] Login button is clicked
+2023-12-12 12:22:11,020 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-12 12:22:11,028 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-12 12:22:11,713 INFO page.FavoritePage [main] Car is choice
+2023-12-12 12:22:12,847 INFO page.FavoritePage [main] Car is added to favs
+2023-12-12 12:22:14,428 INFO page.FavoritePage [main] Car is deleted to favs
+2023-12-12 12:22:14,739 INFO page.FavoritePage [main] Openned fav
+2023-12-12 12:22:24,049 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 12:22:24,149 INFO page.FavoritePage [main] Auth page is opened
+2023-12-12 12:22:24,869 INFO page.FavoritePage [main] Phone is filled
+2023-12-12 12:22:25,070 INFO page.FavoritePage [main] Password is filled
+2023-12-12 12:22:25,213 INFO page.FavoritePage [main] Login button is clicked
+2023-12-12 12:22:28,341 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-12 12:22:28,352 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-12 12:22:28,810 INFO page.FavoritePage [main] Car is choice
+2023-12-12 12:22:29,954 INFO page.FavoritePage [main] Car is added to favs
+2023-12-12 12:22:30,291 INFO page.FavoritePage [main] Openned fav
+2023-12-12 12:23:21,767 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 12:23:21,938 INFO page.FavoritePage [main] Auth page is opened
+2023-12-12 12:23:22,745 INFO page.FavoritePage [main] Phone is filled
+2023-12-12 12:23:22,969 INFO page.FavoritePage [main] Password is filled
+2023-12-12 12:23:23,217 INFO page.FavoritePage [main] Login button is clicked
+2023-12-12 12:23:26,514 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-12 12:23:26,528 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-12 12:23:29,688 INFO page.FavoritePage [main] Car is choice
+2023-12-12 12:23:31,467 INFO page.FavoritePage [main] Car is added to favs
+2023-12-12 12:23:33,119 INFO page.FavoritePage [main] Car is deleted to favs
+2023-12-12 12:23:33,594 INFO page.FavoritePage [main] Openned fav
+2023-12-12 12:23:43,444 INFO page.FavoritePage [main] Main page is opened
+2023-12-12 12:23:43,640 INFO page.FavoritePage [main] Auth page is opened
+2023-12-12 12:23:44,934 INFO page.FavoritePage [main] Phone is filled
+2023-12-12 12:23:45,148 INFO page.FavoritePage [main] Password is filled
+2023-12-12 12:23:45,338 INFO page.FavoritePage [main] Login button is clicked
+2023-12-12 12:23:48,521 INFO page.FavoritePage [main] User is successfully logged in
+2023-12-12 12:23:48,534 INFO page.FavoritePage [main] Redirected to the main page. User is authenticated.
+2023-12-12 12:23:49,431 INFO page.FavoritePage [main] Car is choice
+2023-12-12 12:23:52,208 INFO page.FavoritePage [main] Car is added to favs
+2023-12-12 12:23:52,691 INFO page.FavoritePage [main] Openned fav
+2023-12-12 12:24:14,027 INFO page.SearchedPage [main] Main page is opened
+2023-12-12 12:24:14,162 INFO page.SearchedPage [main] Auth page is opened
+2023-12-12 12:24:14,968 INFO page.SearchedPage [main] Phone is filled
+2023-12-12 12:24:15,197 INFO page.SearchedPage [main] Password is filled
+2023-12-12 12:24:15,397 INFO page.SearchedPage [main] Login button is clicked
+2023-12-12 12:24:17,264 INFO page.SearchedPage [main] Выбраны BMWs
+2023-12-12 12:24:20,330 INFO page.SearchedPage [main] Открыта модель
+2023-12-12 12:24:20,508 INFO page.SearchedPage [main] Выбрана модель
+2023-12-12 12:24:21,838 INFO page.SearchedPage [main] Открыто поколение
+2023-12-12 12:24:22,033 INFO page.SearchedPage [main] Поколение выбрано
+2023-12-12 12:24:22,257 INFO page.SearchedPage [main] Осуществлён поиск
+2023-12-12 12:24:22,454 INFO page.SearchedPage [main] Поиск сохранён
+2023-12-12 12:24:44,735 INFO page.SearchedPage [main] Main page is opened
+2023-12-12 12:24:44,865 INFO page.SearchedPage [main] Auth page is opened
+2023-12-12 12:24:45,657 INFO page.SearchedPage [main] Phone is filled
+2023-12-12 12:24:45,865 INFO page.SearchedPage [main] Password is filled
+2023-12-12 12:24:46,038 INFO page.SearchedPage [main] Login button is clicked
+2023-12-12 12:24:47,853 INFO page.SearchedPage [main] Выбраны BMWs
+2023-12-12 12:24:50,298 INFO page.SearchedPage [main] Открыта модель
+2023-12-12 12:24:50,467 INFO page.SearchedPage [main] Выбрана модель
+2023-12-12 12:24:51,786 INFO page.SearchedPage [main] Открыто поколение
+2023-12-12 12:24:51,995 INFO page.SearchedPage [main] Поколение выбрано
+2023-12-12 12:24:52,236 INFO page.SearchedPage [main] Осуществлён поиск
+2023-12-12 12:24:52,448 INFO page.SearchedPage [main] Поиск сохранён
+2023-12-12 12:25:09,857 INFO page.VinPage [main] Vin page is opened
+2023-12-12 12:25:10,020 INFO page.VinPage [main] Был введён VIN
+2023-12-12 12:25:11,654 INFO page.VinPage [main] Нажата кнпка проверки VINа
+2023-12-12 12:25:13,225 INFO page.VinPage [main] Появилась кнопка отчёта VIN номера
+2023-12-12 12:25:17,620 INFO page.VinPage [main] Vin page is opened
+2023-12-12 12:25:17,767 INFO page.VinPage [main] Был введён VIN
+2023-12-12 12:25:19,369 INFO page.VinPage [main] Нажата кнпка проверки VINа
+2023-12-12 12:25:20,910 INFO page.VinPage [main] Появилась ошибка
+2023-12-12 12:25:46,937 INFO page.VinPage [main] Vin page is opened
+2023-12-12 12:25:47,113 INFO page.VinPage [main] Был введён VIN
+2023-12-12 12:25:48,732 INFO page.VinPage [main] Нажата кнпка проверки VINа
+2023-12-12 12:25:50,311 INFO page.VinPage [main] Появилась кнопка отчёта VIN номера
+2023-12-12 12:25:55,450 INFO page.VinPage [main] Vin page is opened
+2023-12-12 12:25:55,608 INFO page.VinPage [main] Был введён VIN
+2023-12-12 12:25:57,203 INFO page.VinPage [main] Нажата кнпка проверки VINа
+2023-12-12 12:25:58,744 INFO page.VinPage [main] Появилась ошибка
